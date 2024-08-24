@@ -1,4 +1,4 @@
-/* Importing a Google font for the calculator's text */
+/* Importing a google font for the text */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
 /* Global styles for padding, margin, and box-sizing */
@@ -9,7 +9,7 @@
     font-family: 'Poppins', sans-serif; /* Applying the Poppins font globally */
 }
 
-/* Styling the body to center the calculator on the screen */
+/* placing the calculator at centre of the screen */
 body {
     width: 100%;
     height: 100vh;
